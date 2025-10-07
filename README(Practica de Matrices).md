@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de tener claro lo siguiente:
 - Declarar una matriz de 4x4 
 - Inicializar todos los elementos en 0 usando ciclos anidados  
 - Imprimir la matriz en formato de tabla  
-![ejercicio1MatricesRUN](ejercicio1MatricesRUN.png)
+
 ## Ejercicio 2: Llenar Matriz Manualmente
 - Solicitar al usuario los 16 valores de la matriz  
 - Guardar cada valor en su posición  
@@ -60,19 +60,31 @@ Antes de comenzar, asegúrate de tener claro lo siguiente:
 - Permitir al usuario buscar un valor  
 - Indicar si existe y en qué posiciones aparece  
 
-## Archivos Incluidos
+## Archivos Incluidos y capturas de
 - `ejercicio1.c` → Declaración e inicialización  https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-1.cpp
+![ejercicio1MatricesRUN](ejercicio1MatricesRUN.png)
 - `ejercicio2.c` → Llenado manual                https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-2.cpp 
+![Ejercicio2MatricesRun](Ejercicio2MatricesRun.png)
 - `ejercicio3.c` → Valores aleatorios            https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-3.cpp  
+![Ejercicio3MatricesRun](Ejercicio3MatricesRun.png)
 - `ejercicio4.c` → Suma y promedio               https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-4.cpp
+![Ejercicio4MatricesRun](Ejercicio4MatricesRun.png)
 - `ejercicio5.c` → Máximo y mínimo               https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-5.cpp
+![Ejercicio5MatricesRun](Ejercicio5MatricesRun.png)
 - `ejercicio6.c` → Suma por filas y columnas     https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-6.cpp
+![Ejercicio6MatricesRun](Ejercicio6MatricesRun.png)
 - `ejercicio7.c` → Suma de matrices              https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-7.cpp  
+![Ejercicio7MatricesRun](Ejercicio7MatricesRun.png)
 - `ejercicio8.c` → Resta de matrices             https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-8.cpp
+![Ejercicio8MatricesRun](Ejercicio8MatricesRun.png)
 - `ejercicio9.c` → Multiplicación                https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio9.cpp 
+![Ejercicio9MatricesRun](Ejercicio9MatricesRun.png) 
 - `ejercicio10.c` → Transpuesta                  https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio10.cpp
+![Ejercicio10MatricesRun](Ejercicio10MatricesRun.png)
 - `ejercicio11.c` → Diagonales                   https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-11.cpp
+![Ejercicio11MatricesRun](Ejercicio11MatricesRun.png)
 - `ejercicio12.c` → Buscar elemento              https://github.com/Sword2711-ite/Estructuras-Matrices/blob/main/ejercicio-12.cpp
+![Ejercicio12MatricesRun](Ejercicio12MatricesRun.png)
 - `README.md` (este archivo)
 
 ## Rúbrica de Evaluación  

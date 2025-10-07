@@ -1,4 +1,4 @@
-
+// Jean Carlo Lopez Torres (24760859)
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
